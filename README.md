@@ -35,7 +35,7 @@ Built as a fully interactive UI prototype in [Google AI Studio](https://ai.studi
 Instagram-story-style bubbles surface your network's recent activity above the post stream, so you can skim what matters before you scroll.
 
 <p align="center">
-  <img src="status-bubbles.png" alt="Status Bubbles above the LinkedIn feed" width="720">
+  <img src="docs/screenshots/status-bubbles.png" alt="Status Bubbles above the LinkedIn feed" width="720">
 </p>
 
 ### 2. LinkedIn AI Topic Highlights + AI Assistant
@@ -43,7 +43,7 @@ Instagram-story-style bubbles surface your network's recent activity above the p
 Subscribable, AI-curated categories (**Top Pick · Tech · Finance · AI & Cloud · Design & UX**) replace the promotional noise in your feed with real industry signal — organic curation blended with clearly labelled sponsored placements. Can't find what you're after? Ask the **LinkedIn AI Assistant** directly in Messaging: *"What happened in AI in the last 24 hours?"*
 
 <p align="center">
-  <img src="ai-highlights-assistant.png" alt="LinkedIn AI Topic Highlights and AI Assistant" width="720">
+  <img src="docs/screenshots/ai-highlights-assistant.png" alt="LinkedIn AI Topic Highlights and AI Assistant" width="720">
 </p>
 
 ### 3. AI Job Search, Company Trust Score & AI JD Summary
@@ -51,7 +51,7 @@ Subscribable, AI-curated categories (**Top Pick · Tech · Finance · AI & Cloud
 Search by **intent**, not just keywords ("remote AI PM roles, $180–250k"), then refine conversationally. Every listing shows a verified **Company Trust Score**, employee reviews, and structured company facts — plus an **AI-generated summary** of the job description with an "Ask about this job" button for instant follow-up questions.
 
 <p align="center">
-  <img src="job-trust-search.png" alt="AI Job Search with Company Trust Score and AI-generated JD summary" width="720">
+  <img src="docs/screenshots/job-trust-search.png" alt="AI Job Search with Company Trust Score and AI-generated JD summary" width="720">
 </p>
 
 <br>
@@ -59,6 +59,15 @@ Search by **intent**, not just keywords ("remote AI PM roles, $180–250k"), the
 ## 🖥️ Live Prototype
 
 Try it here → **[ai.studio/apps/d262411f-970c-48dc-b535-dad3afdcd472](https://ai.studio/apps/d262411f-970c-48dc-b535-dad3afdcd472)**
+
+<br>
+
+## 📚 Product Docs
+
+The thinking behind the build — problem framing, prioritization, and requirements:
+
+- 📄 [**Steps Document**](docs/Step%20Document.pdf) — Diverge, Converge (RICE prioritisation), Live Prototype, Success Metrics, Pitfalls & Mitigation
+- 📄 [**Product Requirment Document**](docs/Product%20Requirment%20Document.pdf) — full Product Requirements Document for both solution suites
 
 <br>
 
